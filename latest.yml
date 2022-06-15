@@ -1,0 +1,8 @@
+version: 1.2.0
+files:
+  - url: deployCopy-Setup-1.2.0.exe
+    sha512: NOPJ5MnxutbeSQh37LPEOanJvIItVepGvFlmZZE1pyTuzdzCJLP1DKYHWmnZO/+sKkLGblLAigKbWw1N6S/nYw==
+    size: 63578665
+path: deployCopy-Setup-1.2.0.exe
+sha512: NOPJ5MnxutbeSQh37LPEOanJvIItVepGvFlmZZE1pyTuzdzCJLP1DKYHWmnZO/+sKkLGblLAigKbWw1N6S/nYw==
+releaseDate: '2022-06-15T01:23:06.061Z'
